@@ -1,0 +1,615 @@
+"","Sex","Con","COVID","Age","NivEco","Educ","GenRecod","Ideology1","Ideology2","IdePol","ExtMod","Homphily","Bias","skill","Global","EC","CA","DPol","EcoCount","Citizen","SC0"
+"1","Male",0,1,1,2,4,"Male","Ninguno","Ninguno","0","Ninguno",24,21,21,14,22,5,7,50,69,5
+"2","Male",1,1,1,4,3,"Male","Ninguno","Ninguno","0","Ninguno",23,19,17,10,16,4,5,46,52,5
+"3","Female",1,1,1,2,4,"Female","Centro","Centro","1","0",3,3,5,7,12,8,4,7,36,4
+"4","Female",0,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",15,15,15,11,20,8,3,31,57,4
+"5","Female",0,1,1,4,4,"Female","Ninguno","Ninguno","0","Ninguno",23,13,19,12,21,5,5,43,62,5
+"6","Male",0,1,1,3,4,"Male","Ninguno","Ninguno","0","Ninguno",24,22,20,6,14,2,6,52,48,4
+"7","Female",0,0,1,4,4,"Female","Ninguno","Ninguno","0","Ninguno",29,23,21,12,22,9,10,58,74,4
+"8","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",21,15,18,13,24,7,13,43,75,4
+"9","Female",0,1,1,3,4,"Female","Centro-Izquierda","Izquierda","1","0",22,8,20,14,20,7,10,34,71,6
+"10","Male",0,1,1,3,3,"Male","Ninguno","Ninguno","0","Ninguno",30,6,19,14,26,4,9,37,72,3
+"11","Female",0,1,1,2,3,"Female","Centro-Izquierda","Izquierda","1","0",17,12,19,11,21,11,7,33,69,4
+"12","Female",0,1,1,4,3,"Female","Centro","Centro","1","0",28,18,21,14,17,7,9,47,68,5
+"13","Female",0,1,1,4,3,"Female","Centro","Centro","1","0",23,16,17,13,27,9,7,44,73,3
+"14","Female",0,1,1,4,3,"Female","Ninguno","Ninguno","0","Ninguno",24,13,17,9,18,5,7,40,56,4
+"15","Male",1,1,1,4,4,"Male","Centro-Derecha","Derecha","1","0",25,18,20,12,10,2,4,45,48,6
+"16","Female",0,1,2,4,5,"Female","Centro-Izquierda","Izquierda","1","1",19,17,21,14,20,12,12,38,79,4
+"17","Female",1,0,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",30,19,21,10,16,9,9,56,65,2
+"18","Male",1,0,1,1,3,"Male","Centro-Izquierda","Izquierda","1","1",5,8,17,12,23,10,14,14,76,6
+"19","Female",1,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","0",23,18,21,11,10,4,5,47,51,6
+"20","Male",1,1,1,4,3,"Male","Ninguno","Ninguno","0","Ninguno",21,8,21,14,18,4,4,34,61,4
+"21","Female",1,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",25,21,20,14,20,7,13,50,74,5
+"22","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",21,3,15,6,7,2,3,25,33,3
+"23","Male",0,0,1,3,4,"Male","Ninguno","Ninguno","0","Ninguno",21,8,21,13,17,4,6,34,61,1
+"24","Female",1,1,1,4,5,"Female","Centro-Izquierda","Izquierda","1","0",30,25,21,14,21,8,19,65,83,7
+"25","Female",0,1,1,2,4,"Female","Ninguno","Ninguno","0","Ninguno",9,5,16,5,17,5,3,15,46,3
+"26","Female",0,0,2,3,4,"Female","Centro-Izquierda","Izquierda","1","0",24,18,21,12,19,13,10,49,75,4
+"27","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",18,11,17,10,7,2,3,36,39,4
+"28","Female",1,0,2,4,4,"Female","E. Izquierda","Izquierda","1","1",12,13,21,14,16,6,9,27,66,3
+"29","Male",0,1,2,3,4,"Male","E. Izquierda","Izquierda","1","1",12,8,21,14,16,8,21,26,80,2
+"30","Female",0,1,2,3,4,"Female","Centro-Izquierda","Izquierda","1","1",25,22,18,14,14,10,6,50,62,3
+"31","Female",0,0,2,2,3,"Female","Ninguno","Ninguno","0","Ninguno",11,17,17,11,19,10,4,29,61,1
+"32","Female",1,1,2,3,5,"Female","E. Izquierda","Izquierda","1","1",21,18,20,12,24,11,14,40,81,4
+"33","Male",1,0,2,2,3,"Male","Ninguno","Ninguno","0","Ninguno",17,18,17,11,19,11,18,40,76,3
+"34","Female",1,1,2,3,4,"Female","Centro-Izquierda","Izquierda","1","0",16,15,16,9,16,5,7,34,53,7
+"35","Female",0,1,2,2,4,"Female","Centro","Centro","1","0",19,12,18,13,19,8,14,34,72,6
+"36","Male",0,1,1,2,4,"Male","Centro-Izquierda","Izquierda","1","0",19,15,19,12,26,12,20,39,89,3
+"37","Male",0,0,2,2,4,"Male","Centro-Izquierda","Izquierda","1","1",27,12,21,14,16,6,9,43,66,4
+"38","Female",0,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",28,25,17,14,14,3,9,59,57,6
+"39","Female",0,1,2,2,4,"Female","E. Izquierda","Izquierda","1","1",27,19,21,14,28,12,17,53,92,2
+"40","Female",1,0,1,4,5,"Female","E. Izquierda","Izquierda","1","1",15,13,17,8,12,7,10,31,54,6
+"41","Male",1,1,2,2,3,"Male","Ninguno","Ninguno","0","Ninguno",25,19,17,11,21,10,13,49,72,3
+"42","Female",0,1,2,2,4,"Female","Ninguno","Ninguno","0","Ninguno",17,23,19,14,24,9,16,45,82,2
+"43","Male",0,1,1,3,4,"Male","Centro-Derecha","Derecha","1","1",18,6,15,4,14,4,4,26,41,4
+"44","Male",0,0,1,5,3,"Male","Centro-Izquierda","Izquierda","1","0",19,11,21,12,17,4,10,35,64,4
+"45","Male",0,1,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",22,16,21,14,23,8,14,41,80,4
+"46","Female",1,1,1,2,4,"Female","Centro-Izquierda","Izquierda","1","1",30,17,21,13,20,10,11,51,75,5
+"47","Female",0,1,1,3,4,"Female","E. Izquierda","Izquierda","1","1",24,18,21,14,21,10,17,49,83,3
+"48","Female",0,1,1,2,3,"Female","Centro-Izquierda","Izquierda","1","0",30,19,21,14,25,8,6,59,74,6
+"49","Male",0,0,2,4,5,"Male","Centro-Izquierda","Izquierda","1","0",16,15,17,9,12,2,11,35,51,3
+"50","Male",0,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",26,13,21,13,26,2,3,45,65,6
+"51","Male",0,1,1,3,3,"Male","Centro-Izquierda","Izquierda","1","1",16,12,20,10,11,5,4,30,50,4
+"52","Female",0,1,2,2,4,"Female","Centro-Izquierda","Izquierda","1","1",15,15,18,12,17,6,13,34,66,4
+"53","Female",0,1,1,3,3,"Female","Ninguno","Ninguno","0","Ninguno",19,5,21,12,15,2,6,30,56,4
+"54","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",30,18,20,14,24,12,18,49,88,4
+"55","Female",1,1,2,4,5,"Female","Centro-Derecha","Derecha","1","1",30,5,16,8,15,3,4,38,46,4
+"56","Male",1,0,2,3,5,"Male","Ninguno","Ninguno","0","Ninguno",8,17,19,12,23,11,12,33,77,4
+"57","Male",0,1,1,2,3,"Male","Ninguno","Ninguno","0","Ninguno",15,18,21,14,14,2,3,34,54,5
+"58","Female",0,0,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",6,7,15,11,21,10,10,15,67,1
+"59","Female",0,1,2,4,5,"Female","Ninguno","Ninguno","0","Ninguno",15,3,21,9,9,6,3,24,48,4
+"60","Male",0,1,2,4,5,"Male","Ninguno","Ninguno","0","Ninguno",18,13,19,14,9,4,3,36,49,2
+"61","Male",0,1,3,4,4,"Male","Centro","Centro","1","0",3,3,15,11,16,8,12,7,62,4
+"62","Male",1,1,2,2,3,"Male","E. Izquierda","Izquierda","1","1",27,15,21,14,24,10,9,43,78,7
+"63","Female",0,0,1,4,3,"Female","Ninguno","Ninguno","0","Ninguno",21,18,17,8,15,4,8,45,52,4
+"64","Female",0,1,1,2,3,"Female","E. Izquierda","Izquierda","1","1",30,16,21,14,18,5,3,47,61,3
+"65","Male",1,0,3,2,3,"Male","Centro","Centro","1","0",26,25,20,12,25,14,20,59,91,2
+"66","Female",0,0,3,3,4,"Female","Centro-Derecha","Derecha","1","0",30,9,15,14,27,3,14,43,73,2
+"67","Male",0,0,3,3,4,"Male","Centro-Izquierda","Izquierda","1","1",26,21,21,12,21,7,9,52,70,0
+"68","Female",0,0,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",24,16,21,14,16,8,4,41,63,2
+"69","Female",1,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",18,14,18,12,20,3,15,38,68,4
+"70","Male",1,0,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",11,3,19,10,4,4,14,15,51,3
+"71","Female",1,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",6,15,21,14,20,10,9,22,74,5
+"72","Female",0,1,1,3,4,"Female","Centro-Izquierda","Izquierda","1","0",25,20,21,14,25,6,4,53,70,4
+"73","Female",1,1,3,4,4,"Female","E. Derecha","Derecha","1","1",23,20,18,11,13,6,6,44,54,3
+"74","Female",0,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",16,10,21,14,28,8,3,27,74,4
+"75","Male",0,1,3,4,4,"Male","Centro-Izquierda","Izquierda","1","1",13,11,11,11,7,8,7,26,44,2
+"76","Female",1,1,4,4,3,"Female","Centro-Derecha","Derecha","1","1",24,17,14,10,15,5,3,48,47,6
+"77","Female",0,1,4,4,4,"Female","Centro-Derecha","Derecha","1","1",17,11,18,12,21,4,5,30,60,2
+"78","Female",0,1,4,2,3,"Female","Ninguno","Ninguno","0","Ninguno",24,24,18,14,21,10,14,54,77,4
+"79","Male",0,1,4,5,4,"Male","Centro-Izquierda","Izquierda","1","1",3,3,21,12,12,2,8,7,55,5
+"80","Female",1,0,4,2,3,"Female","Ninguno","Ninguno","0","Ninguno",21,10,20,11,18,8,12,33,69,3
+"81","Male",0,1,4,4,4,"Male","Centro","Centro","1","0",23,15,21,14,24,10,10,40,79,4
+"82","Female",1,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",9,12,20,14,24,8,8,27,74,7
+"83","Female",0,1,1,3,3,"Female","Ninguno","Ninguno","0","Ninguno",28,23,19,14,24,3,3,59,63,4
+"84","Female",0,1,3,2,3,"Female","Ninguno","Ninguno","0","Ninguno",18,16,17,12,6,5,9,42,49,3
+"85","Male",0,1,2,3,3,"Male","Ninguno","Ninguno","0","Ninguno",15,13,20,11,17,9,8,33,65,3
+"86","Male",1,1,3,4,5,"Male","Centro-Izquierda","Izquierda","1","0",21,10,21,7,14,9,8,34,59,6
+"87","Female",0,1,2,1,4,"Female","E. Derecha","Derecha","1","1",15,14,19,12,19,9,12,34,71,4
+"88","Female",0,1,4,3,4,"Female","E. Derecha","Derecha","1","1",29,20,21,14,28,9,4,58,76,3
+"89","Male",0,1,1,3,3,"Male","E. Izquierda","Izquierda","1","1",19,12,16,12,14,8,13,35,63,4
+"90","Female",0,1,4,1,5,"Female","Ninguno","Ninguno","0","Ninguno",29,16,21,9,12,3,3,49,48,4
+"91","Female",1,1,1,3,4,"Female","Centro-Izquierda","Izquierda","1","1",22,19,21,14,22,12,15,48,84,2
+"92","Female",1,1,1,3,3,"Female","Ninguno","Ninguno","0","Ninguno",21,20,19,13,20,9,9,49,70,4
+"93","Male",0,1,3,4,5,"Male","Ninguno","Ninguno","0","Ninguno",7,7,21,14,12,7,13,17,67,3
+"94","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",15,7,15,11,14,5,9,26,54,4
+"95","Male",1,1,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",15,12,21,13,27,5,6,30,72,6
+"96","Female",0,1,3,5,4,"Female","Centro","Centro","1","0",24,17,20,6,13,3,11,47,53,4
+"97","Male",1,0,4,4,5,"Male","E. Derecha","Derecha","1","1",14,20,21,14,12,7,12,35,66,2
+"98","Male",0,1,4,3,4,"Male","Centro-Izquierda","Izquierda","1","1",15,19,21,14,27,10,17,40,89,4
+"99","Female",1,0,3,4,4,"Female","E. Derecha","Derecha","1","1",25,18,19,12,23,10,11,44,75,3
+"100","Female",1,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",19,20,17,12,20,8,8,42,65,4
+"101","Male",0,1,4,4,4,"Male","Ninguno","Ninguno","0","Ninguno",8,13,21,14,26,10,11,24,82,5
+"102","Female",1,1,3,4,5,"Female","Centro-Izquierda","Izquierda","1","0",23,14,21,11,9,2,3,39,46,6
+"103","Female",0,0,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",13,3,11,6,10,4,6,19,37,2
+"104","Other",0,1,1,2,3,"Other","E. Izquierda","Izquierda","1","1",30,19,21,14,24,6,20,54,85,5
+"105","Female",0,0,3,3,4,"Female","Centro","Centro","1","0",20,19,21,14,22,10,14,46,81,3
+"106","Male",0,0,3,3,3,"Male","Ninguno","Ninguno","0","Ninguno",9,5,19,14,18,6,8,15,65,2
+"107","Female",1,0,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",6,5,13,7,9,4,4,14,37,1
+"108","Female",1,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",22,23,21,14,24,10,3,49,72,7
+"109","Female",0,1,2,3,4,"Female","E. Derecha","Derecha","1","1",24,24,21,14,28,14,21,56,98,4
+"110","Male",0,1,3,4,4,"Male","E. Derecha","Derecha","1","1",26,25,20,12,23,13,13,58,81,2
+"111","Male",0,1,4,4,4,"Male","Ninguno","Ninguno","0","Ninguno",10,8,16,10,16,5,6,22,53,4
+"112","Female",0,1,2,4,5,"Female","E. Izquierda","Izquierda","1","1",17,18,17,9,9,4,9,38,48,4
+"113","Male",1,1,1,4,4,"Male","Ninguno","Ninguno","0","Ninguno",20,18,18,11,21,11,16,45,77,6
+"114","Male",0,1,1,2,4,"Male","E. Izquierda","Izquierda","1","1",15,10,19,12,17,3,3,26,54,5
+"115","Male",1,1,4,3,4,"Male","Ninguno","Ninguno","0","Ninguno",25,20,18,11,17,8,11,53,65,5
+"116","Female",0,1,1,3,4,"Female","Centro-Izquierda","Izquierda","1","1",13,8,21,14,21,3,4,23,63,4
+"117","Female",0,0,3,2,4,"Female","Ninguno","Ninguno","0","Ninguno",26,26,21,14,28,8,15,60,86,2
+"118","Male",0,1,3,4,3,"Male","Ninguno","Ninguno","0","Ninguno",23,16,18,12,22,8,13,45,73,2
+"119","Female",0,1,2,2,3,"Female","Ninguno","Ninguno","0","Ninguno",12,12,18,12,18,4,6,25,58,3
+"120","Male",0,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",27,10,17,9,16,6,7,42,55,3
+"121","Male",0,0,2,3,5,"Male","E. Izquierda","Izquierda","1","1",24,22,21,14,22,6,3,51,66,1
+"122","Female",0,0,4,3,4,"Female","E. Izquierda","Izquierda","1","1",24,24,19,13,24,10,18,56,84,4
+"123","Female",0,1,3,4,4,"Female","Centro-Derecha","Derecha","1","1",24,19,21,14,19,4,5,48,63,4
+"124","Female",0,0,3,3,5,"Female","E. Izquierda","Izquierda","1","1",18,18,21,14,22,14,16,38,87,0
+"125","Female",1,1,1,5,4,"Female","Ninguno","Ninguno","0","Ninguno",21,11,16,10,21,9,16,35,72,3
+"126","Male",0,1,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",18,14,21,12,10,7,11,36,61,4
+"127","Female",0,0,2,4,4,"Female","E. Izquierda","Izquierda","1","1",19,16,16,12,17,8,10,37,63,4
+"128","Male",1,1,1,3,3,"Male","E. Izquierda","Izquierda","1","1",27,16,21,12,15,7,15,45,70,6
+"129","Female",0,1,3,3,3,"Female","E. Derecha","Derecha","1","1",19,15,21,11,19,10,17,42,78,4
+"130","Female",0,0,4,3,4,"Female","E. Izquierda","Izquierda","1","1",30,11,21,14,24,10,15,45,84,3
+"131","Male",0,1,2,2,4,"Male","Ninguno","Ninguno","0","Ninguno",18,19,21,13,19,9,9,42,71,3
+"132","Male",0,1,4,3,4,"Male","E. Izquierda","Izquierda","1","1",6,7,15,10,20,4,4,16,53,5
+"133","Male",0,1,2,4,4,"Male","Centro-Izquierda","Izquierda","1","0",29,25,20,14,28,14,21,61,97,4
+"134","Male",0,1,4,5,4,"Male","Ninguno","Ninguno","0","Ninguno",18,21,21,13,22,7,5,44,68,3
+"135","Male",0,0,1,2,3,"Male","Ninguno","Ninguno","0","Ninguno",20,13,10,3,6,2,5,42,26,5
+"136","Male",1,1,3,3,4,"Male","Centro-Izquierda","Izquierda","1","0",13,10,18,12,23,11,17,28,81,6
+"137","Male",1,1,2,4,4,"Male","E. Izquierda","Izquierda","1","1",24,24,19,14,21,9,21,51,84,6
+"138","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",16,10,16,10,17,6,8,28,57,4
+"139","Female",0,0,2,1,4,"Female","E. Izquierda","Izquierda","1","1",22,18,16,14,12,2,3,42,47,4
+"140","Female",0,1,1,3,3,"Female","Ninguno","Ninguno","0","Ninguno",22,18,21,14,24,11,3,46,73,5
+"141","Male",0,0,2,4,5,"Male","Centro-Izquierda","Izquierda","1","1",20,15,21,14,26,8,14,43,83,2
+"142","Male",0,1,3,4,5,"Male","Centro-Derecha","Derecha","1","1",30,12,21,14,22,11,21,52,89,4
+"143","Male",0,1,4,4,4,"Male","E. Derecha","Derecha","1","1",29,3,21,12,25,7,12,40,77,6
+"144","Female",0,1,3,3,4,"Female","Centro-Izquierda","Izquierda","1","1",23,19,21,14,27,14,17,43,93,1
+"145","Female",1,1,1,4,4,"Female","Centro","Centro","1","0",22,16,20,12,18,7,10,39,67,6
+"146","Male",0,1,1,2,4,"Male","Ninguno","Ninguno","0","Ninguno",24,16,17,10,16,7,8,46,58,4
+"147","Female",0,1,2,5,5,"Female","Centro-Derecha","Derecha","1","0",19,9,21,12,13,8,4,29,58,2
+"148","Female",1,0,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",29,20,19,14,19,2,3,56,57,3
+"149","Male",0,1,2,5,4,"Male","Centro-Derecha","Derecha","1","1",20,15,17,12,19,4,3,38,55,4
+"150","Male",1,0,3,5,4,"Male","Centro-Izquierda","Izquierda","1","0",23,15,21,14,24,10,10,45,79,5
+"151","Male",1,1,4,4,5,"Male","Ninguno","Ninguno","0","Ninguno",9,8,12,10,15,8,13,21,58,4
+"152","Male",1,1,4,4,5,"Male","Centro","Centro","1","0",21,11,17,12,21,8,6,37,64,5
+"153","Male",1,0,1,4,4,"Male","Ninguno","Ninguno","0","Ninguno",9,12,18,12,19,3,6,22,58,4
+"154","Male",0,0,3,3,4,"Male","Ninguno","Ninguno","0","Ninguno",30,27,21,14,28,11,9,59,83,2
+"155","Female",0,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",26,16,21,14,20,3,3,48,61,5
+"156","Male",0,1,4,4,4,"Male","E. Derecha","Derecha","1","1",22,21,21,14,28,14,16,53,93,3
+"157","Female",1,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",16,15,15,11,17,4,6,36,53,6
+"158","Female",0,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",25,10,21,14,19,2,3,36,59,3
+"159","Female",0,0,2,4,4,"Female","Centro","Centro","1","0",25,18,21,14,25,10,9,50,79,5
+"160","Female",1,1,3,2,4,"Female","E. Izquierda","Izquierda","1","1",30,30,21,14,28,14,9,61,86,4
+"161","Female",1,1,1,5,3,"Female","Ninguno","Ninguno","0","Ninguno",25,23,19,13,14,5,5,53,56,4
+"162","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",13,5,21,10,5,2,3,19,41,6
+"163","Female",0,0,1,2,3,"Female","E. Izquierda","Izquierda","1","1",28,17,21,14,24,8,8,48,75,4
+"164","Female",0,1,4,5,4,"Female","Centro-Derecha","Derecha","1","1",12,16,21,13,20,9,12,36,75,5
+"165","Male",0,0,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",17,17,18,12,19,7,3,40,59,3
+"166","Female",0,1,4,3,5,"Female","Ninguno","Ninguno","0","Ninguno",17,12,19,12,24,9,14,30,78,3
+"167","Male",1,1,3,3,4,"Male","Ninguno","Ninguno","0","Ninguno",11,4,21,11,4,8,7,23,51,5
+"168","Male",0,1,2,4,4,"Male","E. Izquierda","Izquierda","1","1",13,10,21,14,28,8,3,24,74,5
+"169","Female",1,1,2,5,4,"Female","Ninguno","Ninguno","0","Ninguno",22,9,19,11,10,7,13,39,60,4
+"170","Female",0,1,3,4,4,"Female","Centro-Derecha","Derecha","1","1",29,13,21,14,24,9,3,47,71,3
+"171","Male",0,1,4,4,5,"Male","Centro-Izquierda","Izquierda","1","0",15,12,19,4,12,9,20,29,64,4
+"172","Male",0,1,3,4,5,"Male","Centro-Derecha","Derecha","1","1",30,19,21,10,15,2,8,57,56,4
+"173","Female",0,1,3,4,3,"Female","Centro-Izquierda","Izquierda","1","1",19,13,20,13,23,12,11,36,79,4
+"174","Male",1,0,2,3,4,"Male","Centro-Izquierda","Izquierda","1","1",21,17,21,12,23,9,16,39,81,6
+"175","Male",0,1,3,5,5,"Male","Centro-Derecha","Derecha","1","0",27,18,20,12,20,8,13,54,73,5
+"176","Male",0,1,4,3,5,"Male","E. Izquierda","Izquierda","1","1",21,14,21,12,21,8,14,40,76,5
+"177","Female",1,1,1,4,4,"Female","Centro-Izquierda","Izquierda","1","1",26,15,20,14,19,5,7,46,65,7
+"178","Male",0,1,3,3,4,"Male","E. Derecha","Derecha","1","1",30,17,17,13,17,2,6,52,55,2
+"179","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",26,24,19,14,21,12,10,57,76,3
+"180","Female",0,0,1,2,3,"Female","E. Derecha","Derecha","1","1",27,11,21,14,19,7,3,39,64,1
+"181","Female",0,1,3,4,5,"Female","Centro-Izquierda","Izquierda","1","1",23,18,19,14,19,5,16,46,73,4
+"182","Female",0,1,4,3,4,"Female","Ninguno","Ninguno","0","Ninguno",11,6,21,14,27,7,9,18,78,4
+"183","Male",0,0,3,4,5,"Male","Centro-Derecha","Derecha","1","1",25,12,21,5,7,9,12,44,54,4
+"184","Male",0,1,2,4,5,"Male","Centro-Izquierda","Izquierda","1","0",21,15,21,13,10,6,8,37,58,5
+"185","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",30,25,21,14,23,14,14,62,86,5
+"186","Female",0,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",15,13,18,8,19,9,12,34,66,4
+"187","Female",0,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",9,12,21,10,15,2,12,22,60,5
+"188","Male",0,1,1,3,4,"Male","Ninguno","Ninguno","0","Ninguno",21,21,21,14,28,6,7,43,76,5
+"189","Female",0,0,2,4,4,"Female","E. Izquierda","Izquierda","1","1",30,30,21,14,28,10,21,70,94,3
+"190","Female",0,1,2,5,4,"Female","Centro","Centro","1","0",19,16,21,14,21,10,4,39,70,4
+"191","Male",1,1,1,4,3,"Male","E. Izquierda","Izquierda","1","1",19,11,13,11,15,2,8,31,49,6
+"192","Male",0,1,2,4,4,"Male","Centro","Centro","1","0",29,19,21,14,28,14,16,54,93,3
+"193","Other",0,1,3,3,4,"Other","Ninguno","Ninguno","0","Ninguno",24,19,21,14,28,14,15,46,92,4
+"194","Male",1,1,1,3,4,"Male","E. Izquierda","Izquierda","1","1",19,12,18,11,18,5,7,32,59,7
+"195","Female",0,1,4,4,3,"Female","E. Izquierda","Izquierda","1","1",12,5,21,12,23,10,17,18,83,4
+"196","Male",0,0,3,4,4,"Male","E. Derecha","Derecha","1","1",14,5,20,9,18,13,10,24,70,4
+"197","Female",0,1,3,4,5,"Female","E. Izquierda","Izquierda","1","1",14,9,19,12,22,9,16,24,78,2
+"198","Male",0,1,4,3,5,"Male","Centro-Derecha","Derecha","1","1",12,18,18,6,14,4,4,33,46,6
+"199","Male",0,1,4,3,4,"Male","E. Izquierda","Izquierda","1","1",24,19,18,10,17,5,16,51,66,5
+"200","Female",0,1,4,3,4,"Female","Ninguno","Ninguno","0","Ninguno",11,14,17,11,20,5,11,26,64,4
+"201","Male",0,1,4,2,4,"Male","E. Izquierda","Izquierda","1","1",22,20,19,14,18,4,18,52,73,4
+"202","Male",1,0,1,3,3,"Male","Ninguno","Ninguno","0","Ninguno",3,3,20,14,15,7,3,7,59,2
+"203","Female",1,1,3,4,4,"Female","Centro-Izquierda","Izquierda","1","1",30,14,19,13,21,8,17,53,78,5
+"204","Female",1,1,3,3,1,"Female","Centro","Centro","1","0",21,25,18,9,22,13,18,51,80,4
+"205","Male",1,0,3,3,3,"Male","Centro-Izquierda","Izquierda","1","0",18,21,21,14,28,14,20,47,97,4
+"206","Female",0,1,4,4,5,"Female","E. Izquierda","Izquierda","1","1",20,18,13,9,18,8,11,41,59,2
+"207","Female",0,0,1,4,5,"Female","E. Derecha","Derecha","1","1",26,15,21,14,25,11,17,50,88,3
+"208","Male",1,0,3,3,5,"Male","Ninguno","Ninguno","0","Ninguno",14,17,21,14,19,5,6,38,65,4
+"209","Male",0,1,1,1,4,"Male","Centro-Izquierda","Izquierda","1","1",15,19,21,12,10,4,15,37,62,4
+"210","Male",1,1,1,3,3,"Male","Ninguno","Ninguno","0","Ninguno",17,11,20,14,15,5,4,29,58,5
+"211","Male",1,1,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",19,16,19,14,22,7,13,39,75,3
+"212","Other",0,1,4,2,4,"Other","Ninguno","Ninguno","0","Ninguno",5,6,13,8,13,2,3,12,39,6
+"213","Female",0,1,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",17,14,19,14,12,3,9,38,57,4
+"214","Female",1,1,1,2,4,"Female","Ninguno","Ninguno","0","Ninguno",11,19,18,13,21,11,10,32,73,2
+"215","Male",0,0,3,4,4,"Male","E. Derecha","Derecha","1","1",27,15,21,14,28,14,21,52,98,2
+"216","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",30,16,21,10,16,4,12,49,63,3
+"217","Male",1,1,1,3,4,"Male","E. Izquierda","Izquierda","1","1",28,22,21,14,24,9,18,56,86,6
+"218","Male",0,1,1,3,4,"Male","Centro-Izquierda","Izquierda","1","1",21,18,21,12,19,3,6,40,61,4
+"219","Female",0,1,3,3,4,"Female","Centro-Izquierda","Izquierda","1","0",26,14,21,11,12,7,13,47,64,5
+"220","Male",0,1,1,2,3,"Male","Centro-Izquierda","Izquierda","1","1",23,19,20,13,25,10,14,49,82,3
+"221","Female",0,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",24,24,20,13,22,7,16,55,78,5
+"222","Male",0,1,3,3,4,"Male","Ninguno","Ninguno","0","Ninguno",20,20,21,14,28,14,9,45,86,3
+"223","Male",0,1,3,5,4,"Male","Ninguno","Ninguno","0","Ninguno",23,6,21,14,25,10,21,39,91,6
+"224","Female",0,1,3,3,3,"Female","Ninguno","Ninguno","0","Ninguno",22,13,14,7,12,7,3,36,43,3
+"225","Female",0,1,4,2,4,"Female","E. Izquierda","Izquierda","1","1",6,4,13,6,5,2,12,12,38,4
+"226","Male",0,1,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",15,17,20,13,13,2,8,33,56,3
+"227","Male",0,0,1,3,4,"Male","E. Izquierda","Izquierda","1","1",12,7,20,10,18,3,3,20,54,4
+"228","Female",0,1,4,3,4,"Female","E. Derecha","Derecha","1","1",24,26,21,14,28,14,9,51,86,3
+"229","Male",0,1,3,4,5,"Male","Ninguno","Ninguno","0","Ninguno",16,12,21,12,16,9,10,33,68,4
+"230","Male",0,1,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",5,8,18,10,20,8,4,14,60,4
+"231","Female",1,1,3,2,5,"Female","Ninguno","Ninguno","0","Ninguno",9,8,19,13,19,7,5,18,63,4
+"232","Male",0,0,4,3,5,"Male","Centro-Izquierda","Izquierda","1","1",30,20,19,14,28,9,11,58,81,3
+"233","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",3,3,3,2,4,2,3,7,14,4
+"234","Female",0,1,1,3,4,"Female","E. Izquierda","Izquierda","1","1",16,21,21,10,9,2,11,38,53,4
+"235","Male",0,1,3,4,4,"Male","Centro-Derecha","Derecha","1","1",17,9,16,5,10,7,13,29,51,4
+"236","Female",0,1,2,1,3,"Female","Centro","Centro","1","0",24,13,20,13,10,2,15,45,60,5
+"237","Male",1,1,1,1,4,"Male","Centro-Izquierda","Izquierda","1","0",22,14,20,11,18,4,6,41,59,3
+"238","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","0",22,16,21,13,16,2,19,46,71,4
+"239","Female",0,0,4,1,4,"Female","E. Derecha","Derecha","1","1",30,15,21,12,23,13,15,47,84,2
+"240","Female",0,0,4,4,5,"Female","E. Izquierda","Izquierda","1","1",17,17,21,12,25,13,21,40,92,1
+"241","Female",0,1,2,2,4,"Female","E. Derecha","Derecha","1","1",17,5,19,14,20,10,13,23,76,6
+"242","Female",0,1,1,3,4,"Female","Centro-Izquierda","Izquierda","1","0",30,12,21,14,28,9,9,46,81,4
+"243","Female",0,0,3,4,3,"Female","Ninguno","Ninguno","0","Ninguno",14,7,21,12,19,12,16,26,80,3
+"244","Female",0,1,4,4,4,"Female","E. Derecha","Derecha","1","1",29,14,21,12,25,9,18,49,85,3
+"245","Female",0,1,1,2,4,"Female","E. Izquierda","Izquierda","1","1",30,25,21,14,24,3,13,62,75,5
+"246","Female",1,0,1,3,4,"Female","Centro-Derecha","Derecha","1","0",30,6,17,12,11,3,13,39,56,5
+"247","Male",0,1,3,5,5,"Male","Centro-Izquierda","Izquierda","1","1",3,4,18,8,9,3,5,8,43,5
+"248","Male",1,0,3,4,4,"Male","E. Izquierda","Izquierda","1","1",20,18,15,8,14,7,8,45,52,6
+"249","Male",0,1,2,4,4,"Male","E. Izquierda","Izquierda","1","1",21,16,19,10,23,9,10,38,71,6
+"250","Male",0,1,4,2,3,"Male","Centro","Centro","1","0",19,13,18,8,18,9,12,37,65,4
+"251","Male",1,1,2,4,4,"Male","E. Izquierda","Izquierda","1","1",20,20,17,12,24,9,12,47,74,5
+"252","Male",0,1,3,5,5,"Male","Centro-Derecha","Derecha","1","0",9,15,21,12,4,6,3,25,46,5
+"253","Male",0,1,2,2,3,"Male","Ninguno","Ninguno","0","Ninguno",10,16,21,14,27,14,9,35,85,3
+"254","Male",0,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","0",10,6,19,8,8,2,6,17,43,3
+"255","Female",1,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",24,16,20,12,21,7,13,44,73,5
+"256","Male",0,1,3,5,5,"Male","Centro-Izquierda","Izquierda","1","0",28,19,21,14,28,14,21,57,98,4
+"257","Female",0,1,4,2,3,"Female","E. Izquierda","Izquierda","1","1",24,25,21,14,25,11,18,58,89,5
+"258","Female",0,0,1,1,3,"Female","Ninguno","Ninguno","0","Ninguno",3,3,21,14,28,5,3,7,71,2
+"259","Female",1,1,3,3,3,"Female","Centro","Centro","1","0",4,12,21,14,18,2,3,20,58,4
+"260","Female",0,1,3,2,3,"Female","Ninguno","Ninguno","0","Ninguno",12,7,11,5,8,6,7,23,37,2
+"261","Female",0,1,3,3,2,"Female","Ninguno","Ninguno","0","Ninguno",18,13,9,5,14,8,7,38,43,4
+"262","Female",0,1,3,4,4,"Female","E. Izquierda","Izquierda","1","1",26,21,21,14,26,14,19,51,94,4
+"263","Female",0,1,1,3,4,"Female","E. Izquierda","Izquierda","1","1",26,23,19,13,18,10,8,56,68,4
+"264","Female",0,0,4,3,4,"Female","Ninguno","Ninguno","0","Ninguno",22,17,19,12,21,6,4,45,62,0
+"265","Female",0,1,2,4,3,"Female","Centro-Derecha","Derecha","1","1",17,18,18,8,13,2,3,36,44,3
+"266","Female",0,1,4,4,4,"Female","Centro","Centro","1","0",22,12,21,13,24,12,17,40,87,4
+"267","Male",0,0,4,4,3,"Male","Centro-Izquierda","Izquierda","1","1",7,10,14,5,11,11,11,19,52,4
+"268","Male",0,1,2,3,3,"Male","Centro-Derecha","Derecha","1","0",28,20,16,10,20,10,4,56,60,2
+"269","Male",0,1,1,4,3,"Male","Ninguno","Ninguno","0","Ninguno",20,15,21,11,22,4,14,38,72,5
+"270","Male",0,1,4,4,4,"Male","Centro-Derecha","Derecha","1","0",18,7,21,6,10,7,6,28,50,6
+"271","Male",1,1,1,3,4,"Male","Centro-Izquierda","Izquierda","1","1",18,14,21,14,24,4,4,35,67,7
+"272","Male",0,1,1,4,3,"Male","E. Izquierda","Izquierda","1","1",28,14,21,14,11,8,9,52,63,6
+"273","Female",0,0,1,2,3,"Female","Centro-Izquierda","Izquierda","1","1",30,30,21,14,22,10,3,61,70,3
+"274","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","1",25,24,20,13,20,4,18,56,75,6
+"275","Female",0,1,4,3,4,"Female","Ninguno","Ninguno","0","Ninguno",28,16,20,14,27,5,12,52,78,3
+"276","Male",0,1,3,4,3,"Male","Centro","Centro","1","0",30,21,21,14,23,14,18,60,90,6
+"277","Female",0,1,3,1,3,"Female","Ninguno","Ninguno","0","Ninguno",3,21,21,10,27,11,9,34,78,3
+"278","Male",0,1,4,4,5,"Male","Centro","Centro","1","0",25,13,21,14,12,5,3,39,55,5
+"279","Female",0,1,1,2,4,"Female","Ninguno","Ninguno","0","Ninguno",12,13,21,11,19,2,9,26,62,3
+"280","Female",0,1,3,3,4,"Female","Centro-Izquierda","Izquierda","1","1",20,15,19,12,11,2,9,36,53,6
+"281","Female",1,1,2,3,3,"Female","Ninguno","Ninguno","0","Ninguno",30,25,21,10,17,4,9,60,61,6
+"282","Female",1,1,4,5,5,"Female","Ninguno","Ninguno","0","Ninguno",6,3,21,4,6,5,3,10,39,2
+"283","Female",0,1,4,4,4,"Female","Centro-Izquierda","Izquierda","1","0",27,19,18,10,14,4,11,52,57,4
+"284","Female",0,1,3,4,4,"Female","E. Izquierda","Izquierda","1","1",24,18,21,14,23,2,9,52,69,4
+"285","Female",1,0,3,3,4,"Female","E. Izquierda","Izquierda","1","1",29,18,21,14,19,12,12,48,78,4
+"286","Male",0,1,4,3,4,"Male","Ninguno","Ninguno","0","Ninguno",20,15,21,12,18,9,8,40,68,4
+"287","Female",0,0,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",23,21,21,14,18,10,3,45,66,4
+"288","Male",0,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","1",25,16,21,14,24,8,8,49,75,4
+"289","Male",0,1,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",15,11,21,12,17,4,14,31,68,6
+"290","Female",0,0,3,3,4,"Female","E. Izquierda","Izquierda","1","1",18,8,21,11,14,6,11,34,63,4
+"291","Female",1,0,1,2,4,"Female","Centro-Izquierda","Izquierda","1","0",15,15,20,11,20,7,11,38,69,3
+"292","Male",1,1,1,3,4,"Male","Ninguno","Ninguno","0","Ninguno",18,14,20,14,25,14,20,42,93,4
+"293","Female",0,0,3,3,3,"Female","E. Izquierda","Izquierda","1","1",19,10,14,12,22,7,17,32,72,2
+"294","Female",0,1,4,3,4,"Female","E. Derecha","Derecha","1","1",21,18,18,14,23,10,8,42,73,5
+"295","Female",0,1,3,3,3,"Female","Centro-Derecha","Derecha","1","1",29,23,18,12,21,4,3,59,58,2
+"296","Male",1,1,4,3,4,"Male","E. Izquierda","Izquierda","1","1",17,8,19,13,9,9,19,35,69,7
+"297","Male",0,0,3,3,3,"Male","Ninguno","Ninguno","0","Ninguno",3,6,21,12,17,10,3,10,63,0
+"298","Female",1,1,1,2,4,"Female","Centro","Centro","1","0",25,17,21,12,21,12,21,52,87,4
+"299","Female",1,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",24,22,21,14,24,10,14,53,83,5
+"300","Male",1,1,2,4,4,"Male","Centro-Izquierda","Izquierda","1","0",13,8,21,14,21,11,8,22,75,6
+"301","Male",1,1,4,2,4,"Male","E. Izquierda","Izquierda","1","1",21,17,12,7,7,10,7,39,43,5
+"302","Female",0,0,2,4,5,"Female","Ninguno","Ninguno","0","Ninguno",21,9,13,9,7,2,8,31,39,2
+"303","Male",0,0,3,3,4,"Male","E. Derecha","Derecha","1","1",19,9,15,5,9,9,12,32,50,0
+"304","Female",0,1,1,3,4,"Female","Centro","Centro","1","0",13,9,21,13,17,9,7,32,67,3
+"305","Female",0,0,3,4,5,"Female","Centro-Izquierda","Izquierda","1","0",26,16,18,10,17,11,17,48,73,1
+"306","Male",0,1,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",12,10,16,11,17,6,14,25,64,4
+"307","Male",0,1,4,3,3,"Male","E. Izquierda","Izquierda","1","1",17,7,17,12,22,7,12,26,70,6
+"308","Male",1,1,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",29,27,21,14,28,14,21,66,98,6
+"309","Female",0,1,3,4,4,"Female","Centro-Derecha","Derecha","1","0",22,15,20,12,22,9,15,41,78,4
+"310","Female",0,1,2,3,3,"Female","Ninguno","Ninguno","0","Ninguno",3,3,21,8,6,2,3,7,40,5
+"311","Male",0,1,1,2,4,"Male","Ninguno","Ninguno","0","Ninguno",21,12,21,12,16,6,5,38,60,2
+"312","Female",0,1,2,3,4,"Female","Centro","Centro","1","0",29,11,21,13,12,9,8,45,63,4
+"313","Male",1,0,1,4,3,"Male","E. Derecha","Derecha","1","1",30,22,21,14,28,2,10,53,75,3
+"314","Male",0,1,3,3,4,"Male","Centro-Izquierda","Izquierda","1","1",30,30,21,14,28,11,21,70,95,1
+"315","Male",0,0,4,3,4,"Male","E. Izquierda","Izquierda","1","1",21,19,11,11,20,9,10,43,61,1
+"316","Male",0,0,3,4,4,"Male","E. Izquierda","Izquierda","1","1",24,15,17,12,16,4,5,47,54,4
+"317","Female",0,1,2,3,4,"Female","E. Derecha","Derecha","1","1",9,7,21,11,20,5,10,21,67,4
+"318","Female",1,1,1,4,3,"Female","Ninguno","Ninguno","0","Ninguno",9,7,21,14,19,6,6,17,66,5
+"319","Male",0,1,1,2,5,"Male","Ninguno","Ninguno","0","Ninguno",24,11,21,8,13,8,10,41,60,5
+"320","Female",0,0,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",30,7,15,14,21,6,21,38,77,1
+"321","Other",0,1,3,5,5,"Other","Ninguno","Ninguno","0","Ninguno",12,10,21,11,20,6,10,23,68,3
+"322","Male",0,1,1,2,4,"Male","Centro","Centro","1","0",18,7,20,13,16,8,6,30,63,2
+"323","Female",0,1,1,4,3,"Female","E. Izquierda","Izquierda","1","1",23,20,20,14,22,5,4,44,65,5
+"324","Male",0,1,4,3,5,"Male","E. Izquierda","Izquierda","1","1",30,23,21,14,26,11,19,61,91,5
+"325","Male",0,0,4,3,5,"Male","Centro-Izquierda","Izquierda","1","1",20,24,18,14,19,9,17,51,77,3
+"326","Male",0,1,2,3,4,"Male","Centro","Centro","1","0",17,11,15,10,20,10,14,33,69,3
+"327","Female",0,0,1,3,4,"Female","E. Izquierda","Izquierda","1","1",9,11,20,14,26,4,11,22,75,2
+"328","Female",0,1,4,4,4,"Female","Centro","Centro","1","0",19,15,18,10,18,7,14,40,67,3
+"329","Female",1,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",16,7,15,12,4,4,3,24,38,4
+"330","Male",0,1,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",25,15,19,12,16,5,7,44,59,5
+"331","Female",0,1,2,3,4,"Female","Centro-Izquierda","Izquierda","1","1",26,22,21,14,25,10,13,56,83,3
+"332","Female",0,0,4,3,5,"Female","E. Derecha","Derecha","1","1",5,7,19,9,18,10,6,14,62,3
+"333","Female",0,1,3,4,4,"Female","E. Izquierda","Izquierda","1","1",18,23,21,14,24,11,4,42,74,5
+"334","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",3,3,15,8,17,2,4,7,46,3
+"335","Male",1,0,3,4,4,"Male","Centro-Derecha","Derecha","1","0",24,18,21,14,23,9,12,47,79,4
+"336","Female",0,1,3,1,3,"Female","Ninguno","Ninguno","0","Ninguno",18,20,21,12,24,10,11,44,78,2
+"337","Male",0,1,3,4,4,"Male","E. Izquierda","Izquierda","1","1",6,13,18,12,24,5,10,20,69,5
+"338","Male",0,1,3,4,3,"Male","Centro-Izquierda","Izquierda","1","0",16,12,19,14,24,10,19,36,86,3
+"339","Male",0,1,4,4,4,"Male","E. Derecha","Derecha","1","1",22,17,21,14,19,12,12,45,78,5
+"340","Female",0,1,4,3,4,"Female","Centro-Izquierda","Izquierda","1","0",22,16,21,10,20,4,16,48,71,2
+"341","Female",1,1,2,4,4,"Female","Centro-Izquierda","Izquierda","1","1",30,13,20,14,21,4,6,50,65,5
+"342","Female",1,0,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",3,3,20,4,5,2,6,7,37,3
+"343","Female",0,0,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",21,22,21,10,24,8,3,44,66,3
+"344","Male",0,1,2,4,4,"Male","Centro-Derecha","Derecha","1","1",15,10,19,14,24,8,7,28,72,4
+"345","Female",0,1,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",6,5,21,10,18,8,10,17,67,3
+"346","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",11,16,21,14,25,6,3,32,69,2
+"347","Male",1,1,3,5,5,"Male","Ninguno","Ninguno","0","Ninguno",26,18,18,12,20,9,14,51,73,4
+"348","Female",0,1,3,3,4,"Female","Centro-Derecha","Derecha","1","1",20,9,20,12,21,9,17,34,79,4
+"349","Male",1,0,2,4,5,"Male","E. Derecha","Derecha","1","1",18,19,18,10,17,8,10,45,63,4
+"350","Female",0,1,3,2,3,"Female","Ninguno","Ninguno","0","Ninguno",27,20,21,14,24,14,14,52,87,1
+"351","Female",0,1,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",7,12,17,10,17,2,3,20,49,6
+"352","Male",0,1,2,4,4,"Male","Centro-Derecha","Derecha","1","0",16,11,18,12,26,7,5,28,68,4
+"353","Male",0,1,2,4,4,"Male","E. Derecha","Derecha","1","1",19,17,17,11,20,11,13,39,72,2
+"354","Male",0,1,2,1,3,"Male","Ninguno","Ninguno","0","Ninguno",9,7,16,10,8,2,3,17,39,3
+"355","Female",0,0,3,3,3,"Female","Centro-Izquierda","Izquierda","1","1",21,17,21,12,11,6,3,45,53,0
+"356","Female",1,0,2,4,4,"Female","E. Izquierda","Izquierda","1","1",30,23,21,12,15,7,12,63,67,4
+"357","Male",1,1,1,1,4,"Male","E. Izquierda","Izquierda","1","1",23,21,18,11,13,3,7,47,52,5
+"358","Female",0,1,1,1,4,"Female","Centro","Centro","1","0",30,6,21,13,7,2,9,37,52,5
+"359","Female",0,0,1,4,3,"Female","Centro","Centro","1","0",23,22,19,14,22,10,3,51,68,3
+"360","Female",0,1,1,4,3,"Female","Ninguno","Ninguno","0","Ninguno",24,25,20,14,24,9,11,55,78,3
+"361","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",19,10,15,10,24,11,9,34,69,3
+"362","Female",0,1,1,4,4,"Female","Centro","Centro","1","0",30,22,18,14,24,8,13,57,77,5
+"363","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","1",22,16,18,10,23,7,14,41,72,4
+"364","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","1",28,19,21,14,16,6,16,53,73,5
+"365","Female",0,1,1,2,4,"Female","Ninguno","Ninguno","0","Ninguno",24,5,18,10,16,2,4,30,50,4
+"366","Male",1,1,1,1,3,"Male","Ninguno","Ninguno","0","Ninguno",13,4,20,12,25,10,3,19,70,5
+"367","Male",0,1,4,4,5,"Male","Ninguno","Ninguno","0","Ninguno",19,7,19,8,12,5,10,29,54,4
+"368","Female",1,1,2,1,4,"Female","E. Izquierda","Izquierda","1","1",28,26,21,14,21,12,7,63,75,4
+"369","Female",1,1,2,4,4,"Female","E. Izquierda","Izquierda","1","1",24,16,21,11,19,10,16,49,77,6
+"370","Male",0,0,3,2,3,"Male","Ninguno","Ninguno","0","Ninguno",20,19,12,10,14,7,8,40,51,2
+"371","Female",1,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","1",24,15,16,11,23,7,4,46,61,4
+"372","Female",0,1,3,2,3,"Female","Ninguno","Ninguno","0","Ninguno",3,3,19,12,15,2,7,7,55,2
+"373","Male",1,1,1,3,4,"Male","Ninguno","Ninguno","0","Ninguno",21,18,21,10,28,11,18,49,88,3
+"374","Male",0,1,4,3,4,"Male","E. Izquierda","Izquierda","1","1",9,10,21,14,15,4,6,22,60,5
+"375","Male",0,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",23,24,20,14,24,12,10,52,80,5
+"376","Male",1,1,1,3,3,"Male","E. Derecha","Derecha","1","1",30,7,21,14,21,14,15,38,85,5
+"377","Male",0,1,4,4,4,"Male","E. Derecha","Derecha","1","1",22,18,21,14,23,12,21,45,91,4
+"378","Male",0,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","1",19,19,18,12,24,9,12,45,75,2
+"379","Male",0,1,4,3,4,"Male","E. Derecha","Derecha","1","1",17,14,20,10,27,11,13,36,81,3
+"380","Female",0,1,1,5,5,"Female","Centro-Izquierda","Izquierda","1","0",20,19,21,14,20,6,16,46,77,4
+"381","Female",0,1,3,2,3,"Female","Ninguno","Ninguno","0","Ninguno",27,18,21,12,19,6,3,52,61,4
+"382","Male",1,1,1,5,3,"Male","Centro-Izquierda","Izquierda","1","0",30,16,21,14,23,6,9,56,73,5
+"383","Male",0,0,2,4,3,"Male","Ninguno","Ninguno","0","Ninguno",28,15,18,13,21,8,13,52,73,3
+"384","Female",0,1,4,3,3,"Female","Ninguno","Ninguno","0","Ninguno",12,6,15,10,21,3,8,19,57,4
+"385","Male",0,1,4,4,4,"Male","E. Derecha","Derecha","1","1",25,11,21,11,4,2,3,37,41,6
+"386","Female",0,1,1,3,4,"Female","Centro","Centro","1","0",10,11,21,12,22,10,15,28,80,4
+"387","Female",0,0,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",23,18,21,11,16,2,3,46,53,0
+"388","Female",0,1,2,3,5,"Female","Centro-Izquierda","Izquierda","1","1",20,15,18,10,17,9,17,41,71,2
+"389","Female",1,0,3,4,5,"Female","E. Izquierda","Izquierda","1","1",27,20,21,10,19,8,16,55,74,4
+"390","Male",0,1,4,4,5,"Male","Centro-Izquierda","Izquierda","1","0",3,3,15,8,4,2,8,7,37,4
+"391","Female",0,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",24,23,21,10,16,7,12,53,66,5
+"392","Male",1,0,1,1,3,"Male","Centro-Izquierda","Izquierda","1","0",27,27,18,12,24,12,18,63,84,5
+"393","Female",0,1,1,2,4,"Female","Centro-Izquierda","Izquierda","1","1",30,23,21,14,20,8,19,63,82,4
+"394","Male",1,0,1,3,3,"Male","Centro-Izquierda","Izquierda","1","1",25,19,21,14,24,14,18,54,91,3
+"395","Male",0,0,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",15,8,16,10,10,7,3,25,46,3
+"396","Female",0,1,1,1,4,"Female","Ninguno","Ninguno","0","Ninguno",19,8,18,7,11,4,4,28,44,3
+"397","Female",0,1,4,3,4,"Female","Ninguno","Ninguno","0","Ninguno",15,15,18,12,22,6,11,35,69,3
+"398","Male",0,1,4,3,3,"Male","Ninguno","Ninguno","0","Ninguno",30,29,21,14,28,6,9,64,78,3
+"399","Female",0,0,3,4,4,"Female","E. Izquierda","Izquierda","1","1",24,18,19,14,20,13,15,46,81,2
+"400","Male",1,0,4,4,5,"Male","E. Derecha","Derecha","1","1",15,21,21,12,20,7,17,38,77,2
+"401","Female",0,1,1,2,4,"Female","Ninguno","Ninguno","0","Ninguno",18,20,18,11,16,6,6,43,57,4
+"402","Female",1,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",13,23,21,14,27,7,8,40,77,4
+"403","Male",0,0,4,3,5,"Male","Centro-Izquierda","Izquierda","1","0",21,5,21,14,26,7,18,28,86,4
+"404","Female",1,0,3,1,4,"Female","Ninguno","Ninguno","0","Ninguno",16,16,21,9,21,7,8,33,66,3
+"405","Male",1,0,1,5,3,"Male","Centro-Izquierda","Izquierda","1","1",16,17,20,14,19,4,19,41,76,5
+"406","Male",0,1,4,5,5,"Male","Centro","Centro","1","0",15,7,21,10,19,10,16,31,76,3
+"407","Male",0,1,4,4,4,"Male","Centro-Derecha","Derecha","1","0",21,24,14,13,22,10,12,48,71,4
+"408","Female",0,1,1,2,3,"Female","Centro-Izquierda","Izquierda","1","1",23,12,19,14,21,9,9,37,72,3
+"409","Female",0,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",19,13,20,6,14,4,3,35,47,5
+"410","Male",0,1,4,4,5,"Male","Centro-Izquierda","Izquierda","1","0",21,13,18,12,20,11,18,39,79,2
+"411","Female",1,0,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",30,22,21,14,26,8,6,58,75,4
+"412","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",25,16,18,13,15,3,5,42,54,4
+"413","Male",0,1,4,4,4,"Male","Centro-Derecha","Derecha","1","1",22,14,21,13,21,12,15,43,82,4
+"414","Female",0,1,1,4,3,"Female","E. Izquierda","Izquierda","1","1",27,21,21,12,20,6,4,57,63,5
+"415","Male",1,1,1,3,4,"Male","Centro-Izquierda","Izquierda","1","1",26,12,21,12,10,4,12,41,59,4
+"416","Male",0,0,3,3,4,"Male","Centro","Centro","1","0",12,13,21,14,26,8,14,28,83,2
+"417","Female",0,0,3,2,1,"Female","Ninguno","Ninguno","0","Ninguno",26,16,21,14,28,12,7,44,82,1
+"418","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",18,12,19,10,21,9,11,37,70,2
+"419","Female",0,0,3,3,5,"Female","Centro","Centro","1","0",25,20,17,10,19,6,7,51,59,2
+"420","Female",0,1,2,2,4,"Female","Centro-Izquierda","Izquierda","1","1",20,15,20,14,22,11,15,42,82,6
+"421","Female",0,1,4,4,4,"Female","E. Izquierda","Izquierda","1","1",29,17,21,10,18,10,19,52,78,4
+"422","Female",1,1,1,2,4,"Female","E. Derecha","Derecha","1","1",29,15,19,12,19,8,16,49,74,6
+"423","Female",0,1,2,1,5,"Female","E. Izquierda","Izquierda","1","1",12,7,19,10,19,4,10,22,62,3
+"424","Male",0,1,4,1,3,"Male","Centro","Centro","1","0",17,15,20,12,22,10,11,33,75,3
+"425","Female",0,0,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",23,16,18,12,16,3,13,43,62,2
+"426","Female",1,1,3,2,2,"Female","Ninguno","Ninguno","0","Ninguno",15,12,21,14,28,14,20,28,97,4
+"427","Female",1,1,1,4,4,"Female","E. Izquierda","Izquierda","1","1",26,17,19,13,21,8,13,51,74,6
+"428","Male",0,1,3,2,3,"Male","Centro-Izquierda","Izquierda","1","1",27,26,19,14,27,12,16,54,88,4
+"429","Female",1,0,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",26,20,18,14,28,4,6,47,70,5
+"430","Female",0,1,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",11,11,20,13,24,6,8,27,71,3
+"431","Male",1,1,4,3,4,"Male","E. Derecha","Derecha","1","1",24,17,17,11,20,10,15,49,73,5
+"432","Male",1,1,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",23,22,18,11,25,11,18,53,83,3
+"433","Female",0,1,2,1,3,"Female","Ninguno","Ninguno","0","Ninguno",7,7,19,10,9,4,3,15,45,3
+"434","Female",0,1,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",7,8,16,8,13,2,3,18,42,4
+"435","Female",0,1,3,4,4,"Female","E. Izquierda","Izquierda","1","1",28,18,21,13,16,7,8,54,65,2
+"436","Male",1,1,2,3,4,"Male","Centro-Izquierda","Izquierda","1","1",19,13,18,13,18,4,9,38,62,6
+"437","Male",0,1,3,3,4,"Male","Centro","Centro","1","0",3,4,13,9,9,2,4,9,37,1
+"438","Male",0,1,1,2,4,"Male","Centro-Izquierda","Izquierda","1","1",22,13,20,13,19,10,17,42,79,6
+"439","Female",0,1,1,1,3,"Female","Ninguno","Ninguno","0","Ninguno",11,13,16,14,21,6,13,27,70,3
+"440","Male",1,1,3,3,5,"Male","E. Izquierda","Izquierda","1","1",3,3,15,14,4,2,3,7,38,3
+"441","Male",0,1,4,5,4,"Male","E. Derecha","Derecha","1","1",18,5,21,9,19,5,10,25,64,4
+"442","Female",0,0,1,4,4,"Female","Ninguno","Ninguno","0","Ninguno",24,14,21,13,18,7,12,43,71,3
+"443","Male",0,1,2,4,4,"Male","E. Derecha","Derecha","1","1",9,5,21,11,18,5,4,18,59,4
+"444","Female",0,1,1,4,4,"Female","Ninguno","Ninguno","0","Ninguno",25,22,21,12,26,10,10,55,79,5
+"445","Male",0,1,2,5,5,"Male","Centro","Centro","1","0",5,12,21,14,12,3,3,18,53,4
+"446","Male",1,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",23,20,21,12,20,8,8,52,69,5
+"447","Female",1,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",26,7,21,10,11,2,10,36,54,5
+"448","Other",1,1,1,2,3,"Other","E. Izquierda","Izquierda","1","1",30,18,21,14,25,5,17,54,82,6
+"449","Other",1,1,1,3,4,"Other","E. Izquierda","Izquierda","1","1",28,26,21,14,23,9,15,63,82,5
+"450","Female",0,1,3,4,4,"Female","Centro-Izquierda","Izquierda","1","1",20,9,21,14,24,13,21,36,93,5
+"451","Male",0,1,2,2,4,"Male","Ninguno","Ninguno","0","Ninguno",24,10,20,14,10,5,5,35,54,4
+"452","Male",1,1,1,2,4,"Male","Centro-Izquierda","Izquierda","1","0",19,21,15,11,21,7,12,47,66,5
+"453","Female",0,1,2,2,3,"Female","Ninguno","Ninguno","0","Ninguno",7,15,19,12,16,9,16,23,72,5
+"454","Female",0,1,1,1,3,"Female","Ninguno","Ninguno","0","Ninguno",21,19,19,11,21,10,9,48,70,5
+"455","Male",0,1,1,4,4,"Male","Centro-Izquierda","Izquierda","1","0",30,22,21,14,21,10,17,57,83,4
+"456","Female",0,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",26,20,16,12,24,6,16,51,74,2
+"457","Female",1,0,2,3,3,"Female","Ninguno","Ninguno","0","Ninguno",14,22,19,11,20,7,15,37,72,3
+"458","Female",0,1,1,2,4,"Female","Centro-Izquierda","Izquierda","1","1",30,21,21,14,22,8,21,57,86,4
+"459","Male",1,0,3,4,5,"Male","Centro-Derecha","Derecha","1","0",18,15,18,12,20,9,15,39,74,5
+"460","Male",0,1,1,1,3,"Male","Ninguno","Ninguno","0","Ninguno",23,20,18,12,24,7,6,47,67,3
+"461","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","0",25,22,21,14,24,11,15,55,85,6
+"462","Female",0,1,3,4,4,"Female","Centro-Derecha","Derecha","1","0",27,20,21,13,19,6,5,51,64,5
+"463","Female",1,1,1,3,3,"Female","Ninguno","Ninguno","0","Ninguno",21,7,17,10,20,9,9,38,65,4
+"464","Male",0,1,3,3,3,"Male","Centro-Derecha","Derecha","1","0",19,20,20,12,19,12,14,46,77,4
+"465","Female",0,1,1,2,3,"Female","E. Izquierda","Izquierda","1","1",8,13,13,10,16,8,11,22,58,2
+"466","Male",0,1,3,5,4,"Male","Ninguno","Ninguno","0","Ninguno",10,16,21,8,12,7,3,29,51,5
+"467","Female",0,1,3,3,5,"Female","Ninguno","Ninguno","0","Ninguno",25,15,20,12,20,6,9,45,67,3
+"468","Male",0,0,3,3,4,"Male","Centro-Izquierda","Izquierda","1","1",13,11,21,13,23,13,17,30,87,3
+"469","Female",0,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",20,14,16,12,22,8,14,41,72,5
+"470","Male",1,1,2,4,4,"Male","Centro","Centro","1","0",30,17,20,12,24,12,21,57,89,6
+"471","Female",0,1,1,3,3,"Female","E. Izquierda","Izquierda","1","1",3,3,15,14,11,2,3,7,45,5
+"472","Female",1,0,1,2,4,"Female","Centro-Izquierda","Izquierda","1","1",24,16,21,12,19,3,11,46,66,2
+"473","Female",1,1,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",25,11,21,14,13,2,12,37,62,4
+"474","Female",1,1,1,5,3,"Female","Ninguno","Ninguno","0","Ninguno",20,16,21,14,28,2,3,37,68,7
+"475","Female",1,1,3,2,3,"Female","Centro","Centro","1","0",15,20,21,14,25,7,9,41,76,5
+"476","Female",1,0,1,1,3,"Female","Ninguno","Ninguno","0","Ninguno",30,21,21,14,28,14,9,61,86,4
+"477","Female",0,1,1,2,4,"Female","E. Izquierda","Izquierda","1","1",29,11,21,14,10,2,5,41,52,6
+"478","Female",0,1,3,1,4,"Female","Ninguno","Ninguno","0","Ninguno",27,23,21,14,22,10,16,58,83,3
+"479","Female",0,1,1,2,3,"Female","Centro","Centro","1","0",28,25,21,13,25,9,6,60,74,5
+"480","Female",0,1,1,4,3,"Female","Centro-Izquierda","Izquierda","1","1",14,18,20,14,20,8,6,38,68,5
+"481","Male",0,1,3,3,5,"Male","Centro","Centro","1","0",30,30,21,14,28,14,17,70,94,4
+"482","Female",1,0,1,3,4,"Female","Centro-Izquierda","Izquierda","1","1",27,22,21,13,22,8,7,54,71,4
+"483","Female",1,0,1,2,3,"Female","Ninguno","Ninguno","0","Ninguno",25,10,13,7,13,4,5,36,42,5
+"484","Female",0,1,3,3,4,"Female","Ninguno","Ninguno","0","Ninguno",10,12,16,7,18,6,10,28,57,3
+"485","Female",0,0,4,3,4,"Female","E. Derecha","Derecha","1","1",16,10,18,9,16,9,4,31,56,5
+"486","Male",1,1,1,1,3,"Male","Ninguno","Ninguno","0","Ninguno",30,11,15,11,25,7,3,42,61,3
+"487","Female",0,1,1,4,3,"Female","Centro","Centro","1","0",29,22,16,8,13,8,13,58,58,3
+"488","Female",0,1,2,3,3,"Female","Ninguno","Ninguno","0","Ninguno",24,20,16,13,16,4,15,50,64,5
+"489","Male",0,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",12,7,21,11,23,8,6,20,69,4
+"490","Female",0,1,3,3,5,"Female","E. Izquierda","Izquierda","1","1",30,19,18,12,15,6,13,54,64,3
+"491","Male",0,1,1,3,4,"Male","Centro","Centro","1","0",22,14,18,10,20,11,15,43,74,2
+"492","Male",0,0,3,3,4,"Male","E. Derecha","Derecha","1","1",23,17,15,11,17,12,5,46,60,2
+"493","Female",1,1,2,4,5,"Female","E. Derecha","Derecha","1","1",22,14,21,11,17,11,4,43,64,5
+"494","Female",0,1,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",19,14,21,8,4,2,3,34,38,4
+"495","Male",0,1,1,3,3,"Male","Centro-Izquierda","Izquierda","1","1",23,12,21,14,20,5,10,41,70,5
+"496","Female",0,1,3,3,4,"Female","E. Derecha","Derecha","1","1",20,14,21,14,12,6,7,35,60,4
+"497","Male",0,1,4,2,4,"Male","Centro-Izquierda","Izquierda","1","0",10,3,11,6,11,2,5,14,35,4
+"498","Male",1,0,4,3,4,"Male","Centro-Derecha","Derecha","1","1",16,12,18,11,19,11,9,35,68,4
+"499","Male",0,0,2,4,4,"Male","Ninguno","Ninguno","0","Ninguno",28,21,21,14,23,9,12,56,79,4
+"500","Female",0,1,1,4,4,"Female","E. Izquierda","Izquierda","1","1",30,30,18,14,20,9,14,70,75,4
+"501","Male",1,0,3,3,4,"Male","Ninguno","Ninguno","0","Ninguno",21,12,21,12,26,14,19,34,92,3
+"502","Female",0,1,1,3,3,"Female","Centro-Izquierda","Izquierda","1","0",24,16,16,11,18,7,10,45,62,3
+"503","Male",0,1,1,4,4,"Male","E. Izquierda","Izquierda","1","1",26,12,16,9,12,4,8,45,49,3
+"504","Male",0,1,2,3,4,"Male","Centro-Izquierda","Izquierda","1","1",14,11,20,11,20,9,16,26,76,3
+"505","Female",0,1,3,2,4,"Female","E. Izquierda","Izquierda","1","1",23,22,21,14,21,12,21,51,89,6
+"506","Male",0,1,3,5,5,"Male","Ninguno","Ninguno","0","Ninguno",15,11,19,11,14,3,9,30,56,5
+"507","Female",0,0,1,2,3,"Female","Centro-Izquierda","Izquierda","1","0",21,19,18,14,24,11,16,47,83,3
+"508","Male",0,1,3,3,4,"Male","E. Izquierda","Izquierda","1","1",17,12,16,10,21,7,12,31,66,5
+"509","Female",0,0,1,3,4,"Female","Ninguno","Ninguno","0","Ninguno",13,16,21,14,23,2,5,34,65,2
+"510","Female",0,1,2,4,5,"Female","Centro-Izquierda","Izquierda","1","0",15,11,16,10,24,5,10,27,65,5
+"511","Female",0,1,3,2,5,"Female","Centro-Izquierda","Izquierda","1","1",27,19,21,11,21,12,13,53,78,4
+"512","Female",0,0,4,2,2,"Female","Ninguno","Ninguno","0","Ninguno",3,15,9,10,19,2,6,19,46,4
+"513","Female",0,0,1,2,3,"Female","E. Izquierda","Izquierda","1","1",14,24,21,14,28,5,4,40,72,3
+"514","Male",0,1,4,3,3,"Male","Centro-Derecha","Derecha","1","1",3,3,15,14,28,10,5,7,72,4
+"515","Male",1,0,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",18,13,17,10,11,9,15,36,62,6
+"516","Male",0,0,2,3,4,"Male","E. Izquierda","Izquierda","1","1",23,15,21,14,22,6,4,43,67,3
+"517","Male",0,1,2,3,4,"Male","Ninguno","Ninguno","0","Ninguno",18,17,19,14,14,5,3,36,55,2
+"518","Male",0,1,2,4,4,"Male","E. Izquierda","Izquierda","1","1",30,11,21,14,26,12,19,51,92,2
+"519","Male",0,0,3,4,4,"Male","Centro-Derecha","Derecha","1","1",26,10,20,11,20,6,3,41,60,4
+"520","Female",0,1,2,4,4,"Female","Ninguno","Ninguno","0","Ninguno",21,11,20,12,20,7,14,33,73,3
+"521","Female",0,0,2,3,4,"Female","Centro","Centro","1","0",26,15,21,9,9,7,4,47,50,4
+"522","Female",0,1,3,3,5,"Female","E. Izquierda","Izquierda","1","1",16,15,19,13,25,8,14,41,79,5
+"523","Female",0,1,2,5,5,"Female","Centro-Derecha","Derecha","1","0",28,5,20,14,25,2,12,42,73,5
+"524","Female",0,1,2,4,3,"Female","Ninguno","Ninguno","0","Ninguno",26,3,21,14,16,5,3,30,59,5
+"525","Male",0,1,3,5,4,"Male","E. Izquierda","Izquierda","1","1",24,22,21,14,24,13,3,49,75,4
+"526","Female",1,1,2,4,4,"Female","Centro-Izquierda","Izquierda","1","1",29,20,21,14,22,11,12,56,80,6
+"527","Male",0,0,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",30,18,21,14,23,13,18,55,89,2
+"528","Male",0,1,4,3,5,"Male","Centro","Centro","1","0",19,23,21,14,22,8,3,46,68,4
+"529","Male",0,1,3,3,3,"Male","Centro-Izquierda","Izquierda","1","0",24,15,21,13,28,12,19,47,93,5
+"530","Female",0,1,2,3,4,"Female","Centro","Centro","1","0",14,21,21,14,20,10,18,43,83,2
+"531","Male",0,1,3,4,4,"Male","Centro-Izquierda","Izquierda","1","0",25,22,17,13,17,4,7,57,58,3
+"532","Female",0,1,2,4,5,"Female","Ninguno","Ninguno","0","Ninguno",30,26,21,14,28,4,6,66,73,4
+"533","Male",0,1,3,3,4,"Male","Ninguno","Ninguno","0","Ninguno",8,15,20,14,27,8,18,24,87,4
+"534","Female",0,1,3,3,4,"Female","Centro","Centro","1","0",25,27,21,13,26,14,21,54,95,3
+"535","Female",0,1,3,3,4,"Female","Centro-Derecha","Derecha","1","0",18,20,20,14,24,11,13,45,82,4
+"536","Female",0,1,2,3,4,"Female","Centro","Centro","1","0",28,16,20,13,18,7,7,45,65,4
+"537","Female",0,0,2,1,4,"Female","Ninguno","Ninguno","0","Ninguno",4,4,21,14,28,14,21,9,98,3
+"538","Male",0,1,4,4,4,"Male","Centro-Derecha","Derecha","1","0",30,17,17,12,13,11,7,54,60,2
+"539","Female",0,1,3,4,5,"Female","Centro-Derecha","Derecha","1","1",3,3,21,14,22,2,3,7,62,5
+"540","Female",0,0,3,1,4,"Female","Centro-Derecha","Derecha","1","0",15,16,20,12,11,12,3,36,58,2
+"541","Male",0,0,3,5,5,"Male","E. Izquierda","Izquierda","1","1",15,10,13,10,18,6,12,31,59,5
+"542","Female",0,1,2,2,3,"Female","E. Izquierda","Izquierda","1","1",23,15,18,14,19,4,12,42,67,4
+"543","Male",0,1,2,4,5,"Male","Centro","Centro","1","0",6,4,16,11,7,2,3,11,39,5
+"544","Male",0,1,2,2,3,"Male","Ninguno","Ninguno","0","Ninguno",7,12,14,10,21,5,3,22,53,5
+"545","Female",1,1,2,4,4,"Female","Centro-Izquierda","Izquierda","1","1",7,6,13,7,10,3,8,15,41,7
+"546","Male",0,0,2,4,4,"Male","Centro-Izquierda","Izquierda","1","1",16,9,21,11,7,5,14,35,58,4
+"547","Female",0,1,3,3,4,"Female","E. Izquierda","Izquierda","1","1",19,12,18,10,17,8,17,38,70,6
+"548","Female",0,1,2,4,5,"Female","E. Izquierda","Izquierda","1","1",25,20,21,14,23,11,9,53,78,4
+"549","Male",0,0,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",12,11,21,11,18,12,16,25,78,4
+"550","Female",0,1,2,4,5,"Female","E. Izquierda","Izquierda","1","1",29,25,21,14,20,8,20,63,83,6
+"551","Female",0,1,4,2,4,"Female","Centro-Izquierda","Izquierda","1","1",10,3,6,3,8,3,8,18,28,4
+"552","Female",0,0,4,1,5,"Female","E. Izquierda","Izquierda","1","1",11,12,18,14,14,7,21,26,74,3
+"553","Male",0,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","0",18,9,20,12,19,11,7,32,69,4
+"554","Male",0,1,4,4,4,"Male","Centro-Derecha","Derecha","1","1",3,3,19,13,6,2,4,7,44,5
+"555","Male",1,1,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",13,13,19,8,16,8,11,30,62,6
+"556","Male",1,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","1",18,21,15,11,20,11,19,46,76,5
+"557","Female",0,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",24,16,21,14,24,11,21,50,91,5
+"558","Female",0,0,2,3,4,"Female","Centro-Izquierda","Izquierda","1","0",23,15,20,9,20,7,11,46,67,3
+"559","Male",1,1,3,3,1,"Male","E. Izquierda","Izquierda","1","1",3,3,21,14,19,4,21,7,79,4
+"560","Female",0,0,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",11,3,16,8,6,2,3,15,35,1
+"561","Male",0,1,2,5,4,"Male","Ninguno","Ninguno","0","Ninguno",24,13,21,13,20,7,8,44,69,3
+"562","Male",0,1,2,5,5,"Male","Centro-Derecha","Derecha","1","0",18,14,18,12,23,8,12,38,73,6
+"563","Male",0,1,3,2,4,"Male","Ninguno","Ninguno","0","Ninguno",7,14,17,12,21,7,7,25,64,4
+"564","Female",1,1,2,3,3,"Female","Ninguno","Ninguno","0","Ninguno",23,20,19,12,22,9,14,48,76,4
+"565","Male",0,1,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",24,18,16,10,17,4,4,47,51,4
+"566","Male",1,1,3,3,4,"Male","Centro-Derecha","Derecha","1","1",20,13,21,8,8,4,8,38,49,2
+"567","Female",0,1,3,4,4,"Female","E. Derecha","Derecha","1","1",7,13,21,13,27,11,8,26,80,4
+"568","Female",0,1,2,4,4,"Female","Centro-Izquierda","Izquierda","1","0",25,10,21,11,13,4,4,38,53,6
+"569","Female",0,1,2,3,4,"Female","E. Izquierda","Izquierda","1","1",25,25,21,14,21,14,8,55,78,2
+"570","Male",0,0,2,4,4,"Male","Centro-Izquierda","Izquierda","1","0",16,14,19,14,22,9,9,34,73,2
+"571","Male",0,0,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",12,17,20,14,23,11,14,35,82,3
+"572","Female",1,1,3,5,5,"Female","E. Derecha","Derecha","1","1",30,20,21,14,19,11,11,60,76,3
+"573","Male",0,1,2,2,3,"Male","Ninguno","Ninguno","0","Ninguno",25,15,15,14,19,4,11,41,63,3
+"574","Female",0,1,2,3,4,"Female","Centro","Centro","1","0",12,3,19,11,24,12,3,17,69,2
+"575","Male",0,1,3,4,4,"Male","E. Izquierda","Izquierda","1","1",3,12,21,11,21,2,3,16,58,5
+"576","Male",0,1,2,3,4,"Male","E. Izquierda","Izquierda","1","1",3,11,17,7,13,2,4,15,43,6
+"577","Female",1,1,2,3,4,"Female","Ninguno","Ninguno","0","Ninguno",29,15,21,12,24,9,5,54,71,5
+"578","Female",1,0,4,5,5,"Female","Centro","Centro","1","0",3,3,21,8,17,4,9,7,59,5
+"579","Male",0,1,3,4,5,"Male","Centro-Izquierda","Izquierda","1","1",23,22,21,13,26,13,21,52,94,3
+"580","Male",0,1,3,2,4,"Male","Centro-Izquierda","Izquierda","1","1",24,21,21,14,22,6,9,48,72,5
+"581","Male",0,1,3,3,4,"Male","E. Derecha","Derecha","1","1",25,19,19,12,21,11,13,51,76,5
+"582","Male",0,0,3,4,4,"Male","Ninguno","Ninguno","0","Ninguno",24,10,19,7,11,10,10,38,57,3
+"583","Male",0,1,4,3,4,"Male","E. Izquierda","Izquierda","1","1",30,18,18,14,26,10,3,53,71,4
+"584","Female",0,0,3,3,4,"Female","E. Izquierda","Izquierda","1","1",17,16,21,7,20,5,6,34,59,3
+"585","Female",1,0,3,1,3,"Female","E. Izquierda","Izquierda","1","1",30,21,21,14,22,7,15,61,79,5
+"586","Female",0,1,3,4,4,"Female","Ninguno","Ninguno","0","Ninguno",23,22,17,12,22,11,8,52,70,1
+"587","Female",0,1,4,4,5,"Female","Centro-Izquierda","Izquierda","1","1",3,3,15,8,9,2,4,7,38,4
+"588","Female",0,1,4,3,3,"Female","Centro-Izquierda","Izquierda","1","1",30,17,19,8,18,6,10,51,61,4
+"589","Female",0,1,3,3,4,"Female","Centro-Izquierda","Izquierda","1","1",30,22,21,14,28,8,21,62,92,3
+"590","Female",0,1,4,3,5,"Female","Centro-Izquierda","Izquierda","1","0",25,14,21,10,18,10,9,47,68,5
+"591","Female",0,1,3,1,4,"Female","Ninguno","Ninguno","0","Ninguno",16,5,17,7,15,2,3,26,44,3
+"592","Male",0,0,3,2,4,"Male","E. Derecha","Derecha","1","1",26,21,20,13,24,8,15,51,80,3
+"593","Male",0,0,3,3,3,"Male","Ninguno","Ninguno","0","Ninguno",7,18,21,12,25,4,3,26,65,2
+"594","Female",0,0,3,3,3,"Female","Ninguno","Ninguno","0","Ninguno",22,10,21,9,7,6,6,38,49,4
+"595","Male",0,1,4,3,3,"Male","Ninguno","Ninguno","0","Ninguno",15,13,17,12,22,7,10,32,68,4
+"596","Female",0,0,3,4,4,"Female","Centro-Derecha","Derecha","1","1",19,13,18,12,19,9,16,36,74,2
+"597","Female",1,1,4,1,4,"Female","Centro-Izquierda","Izquierda","1","0",5,5,16,12,15,6,13,11,62,7
+"598","Male",0,1,3,2,3,"Male","Ninguno","Ninguno","0","Ninguno",19,15,17,10,20,10,15,39,72,2
+"599","Male",1,0,4,3,4,"Male","Centro-Izquierda","Izquierda","1","0",3,3,18,12,17,4,3,7,54,2
+"600","Female",1,0,4,3,4,"Female","E. Izquierda","Izquierda","1","1",12,3,21,9,19,8,8,20,65,3
+"601","Female",0,1,4,4,4,"Female","Centro","Centro","1","0",3,3,15,8,10,2,6,7,41,5
+"602","Female",0,0,4,1,4,"Female","Ninguno","Ninguno","0","Ninguno",20,16,16,5,11,7,5,37,44,2
+"603","Female",0,0,4,3,3,"Female","E. Derecha","Derecha","1","1",12,3,21,12,26,2,3,16,64,3
+"604","Female",0,1,4,3,4,"Female","Centro-Izquierda","Izquierda","1","0",6,16,17,11,22,9,14,25,73,4
+"605","Male",0,0,4,5,4,"Male","E. Derecha","Derecha","1","1",16,6,17,8,14,8,10,30,57,3
+"606","Female",0,1,4,4,4,"Female","Centro-Izquierda","Izquierda","1","0",16,9,21,12,18,10,17,29,78,5
+"607","Male",0,1,4,4,4,"Male","Centro-Izquierda","Izquierda","1","1",18,16,21,12,24,10,18,37,85,5
+"608","Female",0,1,4,3,3,"Female","Ninguno","Ninguno","0","Ninguno",28,24,21,14,28,14,9,60,86,2
+"609","Female",0,1,4,3,4,"Female","E. Izquierda","Izquierda","1","1",15,7,13,11,13,2,8,25,47,5
+"610","Male",0,0,4,2,4,"Male","E. Izquierda","Izquierda","1","1",25,19,20,12,18,8,15,50,73,3
+"611","Female",0,0,4,2,4,"Female","E. Izquierda","Izquierda","1","1",11,8,19,8,12,7,12,24,58,4
+"612","Male",0,1,4,3,5,"Male","Ninguno","Ninguno","0","Ninguno",17,15,21,5,12,6,6,33,50,5
+"613","Female",0,1,4,4,4,"Female","E. Izquierda","Izquierda","1","1",15,13,15,10,21,7,18,31,71,4
+"614","Male",0,1,4,3,3,"Male","Ninguno","Ninguno","0","Ninguno",24,19,19,12,23,13,11,50,78,3
