@@ -1,19 +1,6 @@
 #Load Packages
 
-ipak <- function(pkg){
-  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
-  if (length(new.pkg)) 
-    install.packages(new.pkg, dependencies = TRUE)
-  sapply(pkg, require, character.only = TRUE)
-}
-
-# usage
-packages <- c("tidyverse","dplyr","haven","ggplot2","readxl","summarytools", "patchwork","stringr",
-              "tidyr","kableExtra","psych", "MASS", "foreign", "data.table","gtools","lubridate","AER",
-              "xtable","pBrackets","Hmisc","ri","ggpubr", "stargazer", "Rmisc","wesanderson", "gridExtra","ggmosaic",
-              "vcd", "plyr", "ggannotate","scales")
-ipak(packages)
-
+source("Scripts/1.Packages.R")
 
 ## Load data ##
 
