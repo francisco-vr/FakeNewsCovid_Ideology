@@ -12,9 +12,8 @@ ipak <- function(pkg){
 
 # usage
 
-packages <- c("here", "tidyverse", "patchwork", "ggeasy", "car", "corrplot", "MASS", "PerformanceAnalytics", "stargazer",
-              "sjPlot","dplyr","haven","ggplot2", "patchwork","stringr","insight","MatchIt",
-              "tidyr","postHoc","plyr", "gridExtra", "parameters","marginaleffects","stats","wesanderson", "gridExtra","ggmosaic",
-              "margins", "plyr","modelsummary", "renderthis")
+packages <- c("tidyverse", "patchwork", "corrplot", "MASS", "PerformanceAnalytics", "stargazer",
+              "sjPlot","dplyr","ggplot2", "stringr","MatchIt","tidyr","plyr", "gridExtra", "parameters",
+              "marginaleffects","wesanderson", "gridExtra","ggmosaic", "margins", "plyr","modelsummary")
 
 ipak(packages)
